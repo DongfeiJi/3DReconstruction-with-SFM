@@ -13,9 +13,10 @@ OS：win10/win8
 
 Software versiopn：ViusalSFM 5.24  
 
-CMVS+genOption+PMVS2: http://francemapping.free.fr/Portfolio/Prog3D/CMVS.html  
+CMVS+genOption+PMVS2:  http://francemapping.free.fr/Portfolio/Prog3D/CMVS.html  
 
-MeshLab 1.3.2 x64（Note that if the reconstruction scenario is large, 32-bit software will be prompted to use 64-bit version.）  
+MeshLab 1.3.2 x64
+（Note that if the reconstruction scenario is large, 32-bit software will be prompted to use 64-bit version.）  
 
 ## How to use?
 ### VisualSFM
@@ -28,7 +29,7 @@ MeshLab 1.3.2 x64（Note that if the reconstruction scenario is large, 32-bit so
 1. Open the MeshLab.exe
 2. Open ./data/mydog.nvm.cmvs/00/bundle.rd.out, then the list.txt(this is the sparse reconstruction source)  
 3. Import ./data/optim_dog.ply(this is the 3D object dense reconstruction mesh)  
-now, u have your 3D source.
+ow, u have your 3D source.
 
 ## Improve
 1. Show the position of camera by Render->ShowCamera.    
