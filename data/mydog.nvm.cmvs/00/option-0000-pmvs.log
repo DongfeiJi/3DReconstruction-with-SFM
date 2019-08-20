@@ -1,0 +1,103 @@
+
+pmvs2
+C:\Users\64851\Desktop\mydog.nvm.cmvs\00\
+option-0000
+--------------------------------------------------
+--- Summary of specified options ---
+# of timages: 15 (enumeration)
+# of oimages: 0 (enumeration)
+level: 1  csize: 2
+threshold: 0.7  wsize: 7
+minImageNum: 3  CPU: 4
+useVisData: 1  sequence: -1
+--------------------------------------------------
+Reading images: ***************
+1 2 4 Harris running ...3 Harris running ...Harris running ...Harris running ...1202 harris done
+DoG running...1198 harris done
+1222 harris done
+1183 harris done
+DoG running...DoG running...DoG running...1560 dog done
+5 Harris running ...1545 dog done
+6 Harris running ...1554 dog done
+1545 dog done
+7 Harris running ...8 Harris running ...1139 harris done
+DoG running...1105 harris done
+DoG running...1153 harris done
+DoG running...1209 harris done
+DoG running...1544 dog done
+9 Harris running ...1546 dog done
+12 Harris running ...1554 dog done
+14 Harris running ...1550 dog done
+15 Harris running ...1195 harris done
+DoG running...1158 harris done
+DoG running...1207 harris done
+DoG running...1200 harris done
+DoG running...1535 dog done
+16 Harris running ...1533 dog done
+17 Harris running ...1528 dog done
+18 Harris running ...1544 dog done
+1215 harris done
+DoG running...1181 harris done
+DoG running...1088 harris done
+DoG running...1556 dog done
+1541 dog done
+1544 dog done
+done
+adding seeds 
+(12,440)(1,498)(0,78)(11,12)(7,8)(9,498)(6,3)(2,492)(3,37)(4,37)(13,0)(10,0)(8,136)(14,14)(5,35)done
+---- Initial: 0 secs ----
+Total pass fail0 fail1 refinepatch: 58165 3410 47339 7416 10826
+Total pass fail0 fail1 refinepatch: 100 5.86263 81.3874 12.7499 18.6126
+Expanding patches...
+---- EXPANSION: 32 secs ----
+Total pass fail0 fail1 refinepatch: 115967 89239 13896 12832 102071
+Total pass fail0 fail1 refinepatch: 100 76.9521 11.9827 11.0652 88.0173
+FilterOutside
+mainbody: 
+Gain (ave/var): 0.740645 0.650376
+91387 -> 84104 (92.0306%)	0 secs
+Filter Exact: ***************
+84104 -> 65660 (78.07%)	0 secs
+FilterNeighbor:	65660 -> 49954 (76.0798%)	0 secs
+FilterGroups:	20
+49954 -> 44368 (88.8177%)	0 secs
+STATUS: 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 
+Expanding patches...refinePatchBFGS failed!
+
+---- EXPANSION: 20 secs ----
+Total pass fail0 fail1 refinepatch: 72228 34497 10215 27516 62013
+Total pass fail0 fail1 refinepatch: 100 47.7613 14.1427 38.096 85.8573
+FilterOutside
+mainbody: 
+Gain (ave/var): 1.0533 0.717668
+78865 -> 78109 (99.0414%)	0 secs
+Filter Exact: ***************
+78109 -> 67752 (86.7403%)	0 secs
+FilterNeighbor:	67752 -> 63077 (93.0998%)	0 secs
+FilterGroups:	20
+63077 -> 60382 (95.7274%)	0 secs
+STATUS: 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 
+Expanding patches...
+---- EXPANSION: 15 secs ----
+Total pass fail0 fail1 refinepatch: 58649 26690 9081 22878 49568
+Total pass fail0 fail1 refinepatch: 100 45.508 15.4836 39.0083 84.5164
+FilterOutside
+mainbody: 
+Gain (ave/var): 1.18258 0.768077
+87072 -> 86269 (99.0778%)	0 secs
+Filter Exact: ***************
+86269 -> 72208 (83.701%)	0 secs
+FilterNeighbor:	72208 -> 68535 (94.9133%)	0 secs
+FilterGroups:	20
+68535 -> 65720 (95.8926%)	0 secs
+STATUS: 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 
+---- Total: 0 secs ----
